@@ -1,0 +1,102 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Sun Nov 22 16:47:26 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000004
+                   .org_2       code   0x000008    program   0x000002
+                   .org_3       code   0x000018    program   0x0002ae
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000003      
+                            0x000008    0x000009      
+                            0x000018    0x0002c5      
+            692 out of 33048 program addresses used, program memory utilization is 2%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   AGAIN1   0x00001e    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                   AGAIN2   0x000022    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                 COMMAND1   0x000050    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    D10MS   0x00001a    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    DATA1   0x00005e    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD#   0x0002ba    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD0   0x0002b0    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD1   0x00024c    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD2   0x000256    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD3   0x000260    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD4   0x00026a    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD5   0x000274    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD6   0x00027e    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD7   0x000288    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD8   0x000292    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD9   0x00029c    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPADN   0x0002a6    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW#   0x0001fe    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW0   0x0001ec    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW1   0x000138    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW2   0x00014a    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW3   0x00015c    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW4   0x00016e    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW5   0x000180    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW6   0x000192    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW7   0x0001a4    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW8   0x0001b6    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW9   0x0001c8    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOWN   0x0001da    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                   checki   0x000240    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                   checko   0x000246    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+              nabilicious   0x00006c    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+             nabilicious1   0x0000ee    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    start   0x000210    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    D10MS   0x00001a    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                   AGAIN1   0x00001e    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                   AGAIN2   0x000022    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                 COMMAND1   0x000050    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    DATA1   0x00005e    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+              nabilicious   0x00006c    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+             nabilicious1   0x0000ee    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW1   0x000138    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW2   0x00014a    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW3   0x00015c    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW4   0x00016e    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW5   0x000180    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW6   0x000192    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW7   0x0001a4    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW8   0x0001b6    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW9   0x0001c8    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOWN   0x0001da    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW0   0x0001ec    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    SHOW#   0x0001fe    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                    start   0x000210    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                   checki   0x000240    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                   checko   0x000246    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD1   0x00024c    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD2   0x000256    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD3   0x000260    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD4   0x00026a    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD5   0x000274    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD6   0x00027e    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD7   0x000288    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD8   0x000292    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD9   0x00029c    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPADN   0x0002a6    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD0   0x0002b0    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+                  KEYPAD#   0x0002ba    program     static C:\Users\user\Documents\assignment 5\miniproject.asm
+
+
